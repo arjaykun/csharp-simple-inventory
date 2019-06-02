@@ -1,0 +1,23 @@
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\Inventory System.exe.config
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\Inventory System.exe
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\Inventory System.pdb
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\MetroFramework.Design.dll
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\MetroFramework.dll
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.Form1.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.Properties.Resources.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory System.csproj.GenerateResource.Cache
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory System.exe
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory System.pdb
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\System.Data.SQLite.dll
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\System.Data.SQLite.xml
+C:\Users\Arjay\Documents\Inventory System\Inventory System\bin\Debug\database.db
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.ucItems.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.frmDashboard.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory System.csprojResolveAssemblyReference.cache
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.ucStocks.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.frmChooseItem.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.ucOrders.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.frmReceipt.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.ucLogs.resources
+C:\Users\Arjay\Documents\Inventory System\Inventory System\obj\Debug\Inventory_System.ucUsers.resources
