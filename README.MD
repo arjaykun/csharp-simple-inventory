@@ -1,16 +1,19 @@
-#Simple Inventory System
+# Simple Inventory System
 
-#By Arjay Bernardino
+## By Arjay Bernardino
 
-#Note: this is a small project I made in school
+_Note: this is a small project I made in school._
 
-#Add/Delete/Update Items 
+#### **Programming Language: C#**
+#### **Database: SQLite**
+#### **IDE: Visual Studio Professional 2015**
 
-#Add Orders
 
-#Record Order Logs
-
-#Print receipt for order
+* Add/Delete/Update Items 
+* Update Item's Stocks
+* Add Orders
+* Record Order Logs
+* Print receipt for order
 
 
 
